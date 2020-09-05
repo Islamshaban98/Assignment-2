@@ -21,6 +21,7 @@
     border-radius: 25px;
     margin-top: 20px;
     border: 1px solid #e4e4e4;
+    padding: 20px;
     
 }
 
@@ -41,3 +42,38 @@ li{
     padding: 10px;
     color: gray;
 }
+p{
+    margin-left: 250px;
+    margin-top: 15px;
+}
+.big-div{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+   
+   
+   }
+.small-div{
+    width: 500px;
+}
+
+.sub-title{
+    color: blue;
+    font-size: 22px;
+}
+.paragh{
+    color: #5a5858;
+}
+.box{
+    width: 600px;
+    height: 460px;
+    border: 1px solid #afafaf;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.box-div{
+    display: flex;
+    justify-content: flex-start;
+}
+
