@@ -8,6 +8,7 @@
     justify-content: space-between;
     align-items: flex-start;
     
+    
 }
 .google-img{
     width:100px; 
@@ -89,5 +90,19 @@ p{
     color: #210be4;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+footer{
+    margin-top: 20px;
+    background-color: #f2f2f2; 
+    border-top: 1px solid #e4e4e4;
 
+}
+.ul-footer{
+    display: flex;
+    list-style: none; 
+   margin-left: 250px;
+
+}
+.ul-footer li{
+    color:#5a5858;
+}
 
