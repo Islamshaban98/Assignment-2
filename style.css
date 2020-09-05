@@ -82,5 +82,12 @@ p{
     margin-left: 20px;
     font-size: 18px;
 }
+.related-div{
+    display: flex;
+}
+.related-div p{
+    color: #210be4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 
